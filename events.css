@@ -1,0 +1,16 @@
+.blue {
+	color:turquoise;
+}
+
+.hulkify{
+	font-size: 4em;
+}
+
+.border{
+	border:3px dashed tomato;
+}
+
+.radius{
+	border:3px dashed tomato;
+	border-radius: 20px;
+}
